@@ -4,7 +4,7 @@ import asyncio
 
 # Aiogram
 from aiogram import Bot
-from aiogram.types import ParseMode
+from aiogram.enums import ParseMode
 
 # We also need config and database here
 import config
